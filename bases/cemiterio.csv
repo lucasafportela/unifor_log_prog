@@ -1,5 +1,4 @@
 NOME;PONTUACAO;LOCAL;BUSCA_ID;LAT;LON
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;cemitério;-3.73611;-38.65306
 Cemitério São João Batista;4.3;R. Padre Mororó, S/N - Centro, Fortaleza - CE, 60015-220;cemitério;-3.7248411;-38.5372866
 Cemitério Parque da Paz;3.8;Av. Pres. Juscelino Kubitschek, 4454 - Passaré, Fortaleza - CE, 60861-634;cemitério;-3.71722;-38.54306
 Cemitério Público de Messejana;3.9;Rua Pe Severiano, 290 - Messejana, Fortaleza - CE, 60871-565;cemitério;-3.8348912;-38.4907215
@@ -8,37 +7,5 @@ Cemitério São José (Cemitério da Parangaba);2.7;R. Napoleão Quezado, 365 - 
 Cemitério Memorial Vale da Saudade: Holding;4.7;Av. Edilson Brasil Soares, 1181 - Edson Queiroz, Fortaleza - CE, 60834-005;cemitério;-3.7887572;-38.4756659
 Cemitério Parque da Paz;3.5;Av. da Saudade - Passaré, Fortaleza - CE, 60810-670;cemitério;-3.8144836;-38.5343982
 Cemitério Parque Bom Jardim;3.9;Estr. do Jatobá, 2668 - Siqueira, Fortaleza - CE, 60544-435;cemitério;-3.7946993;-38.6265585
-Memorial Fortaleza: Cemitério, Cremação, Velório, Funerária em Fortaleza CE;4.7;R. Paulo Afonso, 1191 - Jari, Maracanaú - CE, 61916-570;cemitério;-3.87667;-38.62556
-Memorial Funeral Home;5.0;Av. Engenheiro Alberto Sá, 446 - Papicu, Fortaleza - CE, 60175-395;cemitério;-3.7346042;-38.4766319
-Cemitério Anjo da Guarda - Fortaleza;4.9;Av. Dionísio Leonel Alencar, 1652 - Ancuri, Fortaleza - CE, 60870-576;cemitério;-3.8602616;-38.5129305
 Cemitério do Antônio Bezerra - (Santo Antônio);3.8;Rua Professor Leite Gondim, 525 - Antônio Bezerra, Fortaleza - CE, 60360-332;cemitério;-3.7419008;-38.5918164
 Funerária Cred Urna: Plano Funerário, Jazigos, Cremação, Funerais, Bom Jardim, Fortaleza;4.8;R. Edson Martins, 347 - Bom Jardim, Fortaleza - CE, 60543-454;cemitério;-3.7920379;-38.594984
-Cemitério Parque da Saudade;4.4;Avenida, Rod. 4º Anel Viário, Km 22 - s/n - Urucutuba, Caucaia - CE, 61600-000;cemitério;-3.7822;-38.8025
-Jardim Metropolitano | Cemitério e Crematório;3.8;Rod. 4º Anel Viário, s/n - Coaçu, Eusébio - CE, 61760-000;cemitério;-3.8695;-38.4554
-Crematório Pet Ceará;4.8;Av. Engenheiro Alberto Sá, 446 - Papicu, Fortaleza - CE, 60175-395;cemitério;-3.7346042;-38.4766319
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;cemitério;-3.73611;-38.65306
-Jardim Metropolitano (Contil - Escritório Central);3.7;Av. Desembargador Moreira, 1954 - Aldeota, Fortaleza - CE, 60150-160;cemitério;-3.7423277;-38.5006357
-MEMORIAL FORTALEZA;4.8;R. Paulo Afonso - Sitio Jari, Maracanaú - CE, 61916-570;cemitério;-3.87667;-38.62556
-Funerária Eternidade;4.8;R. Sen. Pompeu, 2062 - Benfica, Fortaleza - CE, 60025-001;cemitério;-3.71722;-38.54306
-Jardim Do Cemitérío Eden;4.7;R. Rodrigues Júnior, 884A - Centro, Fortaleza - CE, 60060-000;cemitério;-3.732337;-38.5214122
-Cemitério e Crematório Jardim do Éden;4.6;Estr. Vicente Ferreira, 408 - Boa Vista, Pacatuba - CE, 61800-000;cemitério;-3.9567224;-38.6002987
-Alvorada Funerais Parangaba;4.7;Av. Gen. Osório de Paiva, 255 - Parangaba, Fortaleza - CE, 60720-000;cemitério;-3.7748566;-38.5651882
-Bandeira Porcelanas & Cia;4.4;Rua Professor Joaquim Antônio, 155 - Bairro Ellery, Fortaleza - CE, 60320-295;cemitério;-3.7220397;-38.565307
-Cemitério de São Pedro- Caucaia;5.0;CE-421 - Guararu, Caucaia - CE, 61690-990;cemitério;47.23614;7.69525
-Funerária Paz Eterna;4.0;Av. Barão de Studart, 2780 - Dionísio Torres, Fortaleza - CE, 60120-002;cemitério;-3.7466009;-38.510401
-INDICADOR POPULAR FUNERAIS;5.0;Avenida Imperador, 1160 - Centro, Fortaleza - CE, 60015-050;cemitério;-3.7312628;-38.5360286
-FUNERARIA PAZ INFINITA - MOURA BRASIL - FORTALEZA CE;4.3;R. Padre Mororó, 205 - Centro, Fortaleza - CE, 60015-220;cemitério;-3.7186783;-38.5352511
-Funerária Portal da Paz;4.5;Av. Frei Cirilo, 3700 - Messejana, Fortaleza - CE, 60845-285;cemitério;-3.8164819;-38.4978293
-Funerária Ternura;4.3;Rua Padre Valdevino, 2255 - Aldeota, Fortaleza - CE, 60135-041;cemitério;-3.7426484;-38.504997
-Grupo Jerusalém Funerária;4.2;Av. Heráclito Graça, 330 - Centro, Fortaleza - CE, 60140-060;cemitério;-3.7355073;-38.5184243
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;cemitério;-3.73611;-38.65306
-Funecred Funerais e Velórios;5.0;R. Demétrio Menezes, 3581 - Antônio Bezerra, Fortaleza - CE, 60356-550;cemitério;-3.7345508;-38.5842823
-Cemitério São Gerardo;5.0;Mulungu, CE, 62764-000;cemitério;-4.3052327;-38.9957787
-Funerária Plano da Paz - Demócrito Rocha;3.0;Av. João Pessoa, 6410 - Parangaba, Fortaleza - CE, 60721-340;cemitério;-3.7696783;-38.5607925
-Grupo Jerusalém Funerária;5.0;R. Sen. Pompeu, 468 - Centro, Fortaleza - CE, 60025-000;cemitério;-3.71722;-38.54306
-Foto em Porcelana;5.0;Av. Gen. Osório de Paiva, 88 - Parangaba, Fortaleza - CE, 60720-000;cemitério;-3.7726704;-38.5631135
-Fortalplacas;4.6;R. Jaime Benévolo, 876 - José Bonifacio, Fortaleza - CE, 60050-081;cemitério;-3.7397591;-38.5281013
-Contil cemiterio;4.7;Santa Clara, Eusébio - CE, 61760-000;cemitério;-3.8546162;-38.4734721
-PLANO DA PAZ | Plano de Assistência Familiar | Matriz;2.6;Av. João Pessoa, 6410 - Demócrito Rocha, Fortaleza - CE, 60440-005;cemitério;-3.7635067;-38.5582975
-Cemitério São Francisco;5.0;CE-060, 5000 - Água Verde, Guaiúba - CE, 61890-000;cemitério;-4.157132;-38.6799583
-Cemitério Municipal de Barreira ( Bom Pastor);4.5;R. Boanerges Jacó, 119-131 - Barreira, CE, 62795-000;cemitério;-4.275495;-38.6333735
