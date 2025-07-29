@@ -1,0 +1,60 @@
+NOME;PONTUACAO;LOCAL;BUSCA_ID;LAT;LON
+Hospital São Camilo Fortaleza;3.7;R. Costa Barros, 833 - Centro, Fortaleza - CE, 60160-280;hospital;-3.7283267;-38.5160315
+Hospital Unimed Fortaleza;3.3;Av. Visconde do Rio Branco, 4000 - São João do Tauape, Fortaleza - CE, 60055-172;hospital;-3.7562976;-38.5206666
+Hospital São Carlos;3.1;Av. Pontes Vieira, 2531 - São João do Tauape, Fortaleza - CE, 60130-241;hospital;-3.7530849;-38.5162782
+Hospital Monte Klinikum;3.3;Rua República do Líbano, 747 - Meireles, Fortaleza - CE, 60160-140;hospital;-3.7320898;-38.4932462
+Hospital São Mateus;3.2;Av. Santos Dumont, 5633 - Papicu, Fortaleza - CE, 60175-047;hospital;-3.7417064;-38.4801449
+Hospital Estadual Leonardo Da Vinci;3.7;R. Rocha Lima, 1563 - Aldeota, Fortaleza - CE, 60135-285;hospital;-3.7399924;-38.5102558
+Hospital Batista Memorial;4.2;Rua Professor Dias da Rocha, 1530 - Aldeota, Fortaleza - CE, 60170-311;hospital;-3.7426879;-38.4943188
+Hospital Geral Dr. César Cals;4.1;Avenida Imperador, 545 - Centro, Fortaleza - CE, 60015-152;hospital;-3.7261602;-38.5335361
+Hospital Uniclinic;2.8;Av. Aguanambi, 332 - José Bonifacio, Fortaleza - CE, 60055-402;hospital;-3.7399096;-38.5253228
+Hospital São Raimundo;3.1;Rua Dr. José Lourenço, 777 - Aldeota, Fortaleza - CE, 60115-281;hospital;-3.7308909;-38.5060075
+Hospital e Maternidade José Martiniano de Alencar;4.6;Rua Princesa Isabel, 1526 - Centro, Fortaleza - CE, 60015-061;hospital;-3.7339794;-38.5382519
+Hospital OTOclínica Sul;2.2;Av. Edilson Brasil Soares, 1520 - Edson Queiroz, Fortaleza - CE, 60834-005;hospital;-3.7885108;-38.4699635
+Hospital Universitário do Ceará - UECE;4.6;R. Betel - Dendê, Fortaleza - CE, 60810-670;hospital;-3.8000712;-38.5571755
+Hospital Central de Fortaleza - HCF;2.3;Av. Tristão Gonçalves, 1367 - Centro, Fortaleza - CE, 60015-002;hospital;-3.7338993;-38.5350333
+Pronto Socorro São Camilo Hospital Cura d'Ars;3.7;R. Nogueira Acioli, 453 - Centro, Fortaleza - CE, 60160-280;hospital;-3.7278901;-38.516023
+Hospital Geral de Fortaleza (acesso Ambulatório);4.2;Rua Professor Otávio Lobo, 77 - Papicu, Fortaleza - CE, 60176-050;hospital;-3.7398327;-38.4756146
+Hospital Monte Klinikum Pronto Atendimento;4.2;Rua República do Líbano, 747 - Meireles, Fortaleza - CE, 60160-140;hospital;-3.7320898;-38.4932462
+Hospital Universitário Walter Cantídio;4.3;R. Pastor Samuel Munguba, 1290 - Rodolfo Teófilo, Fortaleza - CE, 60430-372;hospital;-3.7492902;-38.551573
+Hospital Sáo Rafael;3.0;R. Rocha Lima, 231 - Centro, Fortaleza - CE, 60135-000;hospital;-3.7362642;-38.5221283
+Hospital Antonio Prudente;3.6;Av. Aguanambi, 1827 - Fátima, Fortaleza - CE, 60055-401;hospital;-3.7532372;-38.5228616
+Hospital São José de Doenças Infecciosas;4.3;R. Nestor Barbosa, 315 - Parquelândia, Fortaleza - CE, 60455-610;hospital;-3.71722;-38.54306
+OTO Aldeota;3.1;Av. Antônio Sales, 990 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-100;hospital;-3.7424818;-38.5131065
+Hospital e Maternidade Dra. Zilda Arns Neumann (Hospital da Mulher de Fortaleza);3.8;R. George Rocha, 50 - Demócrito Rocha, Fortaleza - CE, 60520-100;hospital;-3.71722;-38.54306
+Hospital OTO Meireles;2.9;Av. Santos Dumont, 3371 - Aldeota, Fortaleza - CE, 60150-162;hospital;-3.7371348;-38.4947169
+Hospital SARAH;4.8;Av. Pres. Juscelino Kubitschek, 4500 - Passaré, Fortaleza - CE, 60861-634;hospital;-3.71722;-38.54306
+Hospital Haroldo Juaçaba: Consultas, Pronto Atendimento, Exames, Complexo hospitalar em Fortaleza CE;4.0;R. Papi Júnior, 1222 - Rodolfo Teófilo, Fortaleza - CE, 60430-230;hospital;-3.7470777;-38.5534735
+Hospital;;Av. Heráclito Graça, 812-898 - Centro, Fortaleza - CE, 60140-060;hospital;-3.71722;-38.54306
+Hospital de Medicina Integrada;5.0;Av. Viena Weyne, 1099 - Cambeba, Fortaleza - CE, 60822-180;hospital;-3.8028073;-38.4842781
+Hospital sao Matheus fortalezas;;Centro, Fortaleza - CE, 60055-450;hospital;-3.7288964;-38.5249223
+Hospital Luís França - Emergência Pediátrica;3.5;Av. Heráclito Graça, 100 - Centro, Fortaleza - CE, 60140-060;hospital;-3.7341544;-38.5237719
+HDOC - Hospital Dr. Oswaldo Cruz;4.2;R. Rocha Lima, 231 - Centro, Fortaleza - CE, 60135-000;hospital;-3.7362642;-38.5221283
+Hospital e Maternidade Eugênia Pinheiro | Hapvida;3.6;Av. Heráclito Graça, 500 - Centro, Fortaleza - CE, 60140-060;hospital;-3.735323;-38.5202643
+Hospital e Maternidade Sindicato dos Arrumadores de Fortaleza;;Rua Frei Mansueto, 151 - Varjota, Fortaleza - CE, 60175-070;hospital;-3.7370768;-38.4885524
+Hospital Icol;5.0;Rua Núbia Barrocas - José de Alencar, Fortaleza - CE, 60830-245;hospital;-3.71722;-38.54306
+Hospital Infantil de Fortaleza - HIF;3.4;Av. Lineu Machado, 155 - Jóquei Clube, Fortaleza - CE, 60520-101;hospital;-3.7622992;-38.5746336
+Instituto Doutor José Frota - IJF;3.6;R. Barão do Rio Branco, 1816 - Centro, Fortaleza - CE, 60025-061;hospital;-3.7341402;-38.5312563
+Hospital-dia;;R. Gonçalves Lêdo, 749-829 - Praia de Iracema, Fortaleza - CE, 60110-260;hospital;-3.71722;-38.54306
+Hospital Antônio Prudente (Emergência);2.4;R. João Lôbo Filho, 72 - Fátima, Fortaleza - CE, 60055-360;hospital;-3.7525664;-38.5227885
+Hospital;;R. Jacinto Matos, 944 - Jacarecanga, Fortaleza - CE, 60310-210;hospital;-3.7193151;-38.5472142
+Hospital Prontocardio;2.9;Av. Barão de Studart, 560 - Meireles, Fortaleza - CE, 60120-000;hospital;-3.7287706;-38.5049365
+Hospital de 24 horas;;R. Helenice Paiva Menezes, 544 - Barra do Ceará, Fortaleza - CE, 60330-845;hospital;-3.7073369;-38.587353
+Santa Casa da Misericórdia de Fortaleza;3.6;R. Barão do Rio Branco, 20 - Centro, Fortaleza - CE, 60025-060;hospital;-3.7222303;-38.5275535
+Nosso Lar Hospital Ceará;4.0;R. Carapinima, 2380 - Benfica, Fortaleza - CE, 60015-290;hospital;-3.7402285;-38.5412466
+Beneficência Camiliana do Sul;5.0;R. Nogueira Acioli, 5 - Centro, Fortaleza - CE, 60110-140;hospital;-3.7268676;-38.5161252
+Hospital Distrital Gonzaga Mota Barra do Ceará;3.6;Av. Dom Aloísio Lorscheider, 1130 - Vila Velha, Fortaleza - CE, 60347-780;hospital;-3.7151949;-38.5975798
+Hospital Nossa Senhora da Conceição;3.6;Rua 1018 4ª etapa 148 Conjunto Ceará, Fortaleza - CE, 60532-690;hospital;-3.7707179;-38.6163225
+Hospital das clinicas;3.4;R. Nestor Barbosa, 315 - Parquelândia, Fortaleza - CE, 60455-610;hospital;-3.71722;-38.54306
+Hospital Geral Waldemar Alcântara;4.3;Rua Dr. Pergentino Maia, 1559 - Messejana, Fortaleza - CE, 60864-040;hospital;-3.8315013;-38.4882165
+Exército Brasileiro - Hospital Geral de Fortaleza;3.8;Av. Desembargador Moreira, 1500 - Aldeota, Fortaleza - CE, 60170-002;hospital;-3.7390481;-38.4997702
+Hospital do Coração de Messejana;3.9;Av. Frei Cirilo, 3480 - Cajazeiras, Fortaleza - CE, 60840-285;hospital;-3.8155429;-38.4998045
+Emergência Hospital Geral de Fortaleza;;R. Ávila Goularte, 900 - Papicu, Fortaleza - CE, 60150-160;hospital;-3.71722;-38.54306
+Hospital e Maternidade Argentina Castelo Branco;3.7;R. Maceió, 1350 - Henrique Jorge, Fortaleza - CE, 60525-540;hospital;-3.7631989;-38.59075
+PRONTO SOCORRO PRONTOMEDICO;4.4;R. Barão do Rio Branco, 1722 - Centro, Fortaleza - CE, 60025-062;hospital;-3.7333553;-38.5305265
+Hospital Universitário Walter Cantídio Bloco de Ambulatórios (Ilhas);4.3;Rua Coronel Nunes de Melo, 1142 - Rodolfo Teófilo, Fortaleza - CE, 60416-000;hospital;-3.7455968;-38.5501505
+Hemodinâmica (Cateterismo Cardíaco);;Meireles, Fortaleza - CE;hospital;-3.7278218;-38.5003721
+HGF HOSPITAL GERAL DE FORTALEZA : Pediatria;4.6;R. Riachuelo, 900 - Papicu, Fortaleza - CE, 60175-205;hospital;-3.7395565;-38.4758553
+Hospital Distrital Gonzaga Mota | José Walter;3.6;Av. C, 485 - Pref. José Walter, Fortaleza - CE, 60750-020;hospital;-3.71722;-38.54306
+Hospital Otoclínica : Cardiologia;3.0;Av. Antônio Sales, 990 - Joaquim Távora (Fortaleza), Fortaleza - CE, 60135-100;hospital;-3.7424818;-38.5131065
+HOSPITAL monte Klinico;5.0;R. Padre Pedro de Alencar, 302 - lojas 03,04 e 05 - Messejana, Fortaleza - CE, 60840-280;hospital;-3.71722;-38.54306
