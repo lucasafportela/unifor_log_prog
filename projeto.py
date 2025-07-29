@@ -121,7 +121,7 @@ with tab1:
     # Tabela
     df_tipo_ordenado = df_tipo.sort_values(by='PONTUACAO', ascending=False).reset_index(drop=True)
     st.subheader(f"Lista de {tipo_escolhido} ordenada por pontuação")
-    st.dataframe(df_tipo_ordenado[['NOME', 'PONTUACAO', 'LOCAL']])
+    st.dataframe(df_tipo_ordenado[['NOME', 'PONTUACAO', 'LOCAL']].reset_index(drop=True))
 
 
 ########################### Aba 3: Mapa Interativo ###########################
@@ -178,6 +178,6 @@ with tab2:
     st_folium(mapa, width=700, height=500)
 
     st.subheader("Funerárias mais próximas")
-    st.dataframe(funerarias_proximas[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']])
+    st.dataframe(funerarias_proximas[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']].reset_index(drop=True))
     st.subheader("Cemitérios mais próximos")
-    st.dataframe(cemiterios_proximos[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']])
+    st.dataframe(cemiterios_proximos[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']].reset_index(drop=True))
