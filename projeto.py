@@ -178,6 +178,6 @@ with tab2:
     st_folium(mapa, width=700, height=500)
 
     st.subheader("Funerárias mais próximas")
-    st.dataframe(funerarias_proximas[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']].reset_index(drop=True))
+    st.dataframe(funerarias_proximas[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']].sort_values(by='PONTUACAO', ascending=False).reset_index(drop=True))
     st.subheader("Cemitérios mais próximos")
-    st.dataframe(cemiterios_proximos[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']].reset_index(drop=True))
+    st.dataframe(cemiterios_proximos[['NOME', 'PONTUACAO', 'LOCAL', 'dist_km']].sort_values(by='PONTUACAO', ascending=False).reset_index(drop=True))
