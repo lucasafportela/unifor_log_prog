@@ -12,6 +12,7 @@ df_funerarias = pd.read_csv("bases/funeraria.csv",sep=";")
 df_funerarias['NOME'] = df_funerarias['NOME'].astype(str).str.strip()
 df_cemiterios = pd.read_csv("bases/cemiterio.csv",sep=";")
 df_cemiterios['NOME'] = df_cemiterios['NOME'].astype(str).str.strip()
+df_cemiterios = df_cemiterios[df_cemiterios['TIPO'].str.contains('Cemitério em Fortaleza, Ceará', na=False)]
 df_total = pd.concat([df_hospitais, df_funerarias, df_cemiterios], ignore_index=True)
 
 ########################### Sidebar ########################### 
