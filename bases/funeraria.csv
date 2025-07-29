@@ -1,13 +1,10 @@
 NOME;PONTUACAO;LOCAL;BUSCA_ID;LAT;LON
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-Funerária Cred Urna: Plano Funerário, Jazigos, Cremação, Funerais, Bom Jardim, Fortaleza;4.8;R. Edson Martins, 347 - Bom Jardim, Fortaleza - CE, 60543-454;casa funerária;-3.7920379;-38.594984
 Memorial Funeral Home;5.0;Av. Engenheiro Alberto Sá, 446 - Papicu, Fortaleza - CE, 60175-395;casa funerária;-3.7346042;-38.4766319
 Funerária Paz Eterna;4.0;Av. Barão de Studart, 2780 - Dionísio Torres, Fortaleza - CE, 60120-002;casa funerária;-3.7466009;-38.510401
 Funerária Ternura;4.3;Rua Padre Valdevino, 2255 - Aldeota, Fortaleza - CE, 60135-041;casa funerária;-3.7426484;-38.504997
 Grupo Jerusalém Funerária;4.2;Av. Heráclito Graça, 330 - Centro, Fortaleza - CE, 60140-060;casa funerária;-3.7355073;-38.5184243
 Funerária Caminho Certo;5.0;R. Barão do Rio Branco, 1895 - Centro, Fortaleza - CE, 60025-062;casa funerária;-3.7348904;-38.5307927
 Funerária CABEMCE;5.0;Avenida Imperador, 1612 - Centro, Fortaleza - CE, 60015-052;casa funerária;-3.7324951;-38.5360684
-Funerária Aliança;5.0;R. Xavier da Silveira, 4583 - Granja Lisboa, Fortaleza - CE, 60540-215;casa funerária;-3.792127;-38.6129797
 Grupo Jerusalém Funerária;5.0;R. Sen. Pompeu, 468 - Centro, Fortaleza - CE, 60025-000;casa funerária;-3.71722;-38.54306
 Funerária Paraíso;5.0;R. da Assunção, 709 - José Bonifacio, Fortaleza - CE, 60050-010;casa funerária;-3.7363362;-38.5289839
 Funerária Eternidade;4.8;R. Sen. Pompeu, 2062 - Benfica, Fortaleza - CE, 60025-001;casa funerária;-3.71722;-38.54306
@@ -17,8 +14,6 @@ Funerária são francisco;5.0;R. Sen. Pompeu, 495 - Centro, Fortaleza - CE, 6002
 INDICADOR POPULAR FUNERAIS;5.0;Avenida Imperador, 1160 - Centro, Fortaleza - CE, 60015-050;casa funerária;-3.7312628;-38.5360286
 Funerária Plena Paz;1.5;R. Emílio de Menezes, 1907 - Bonsucesso, Fortaleza - CE, 60541-420;casa funerária;-3.7817134;-38.5875605
 Paz Eterna;4.2;R. Barão do Rio Branco, 1463 - Centro, Fortaleza - CE, 60025-061;casa funerária;-3.7312015;-38.5294875
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-PLANO DA PAZ | Plano de Assistência Familiar | Unidade Maracanaú;4.2;Rua João de Alencar, 64 - Centro, Maracanaú - CE, 61900-150;casa funerária;-3.87667;-38.62556
 PLANO DA PAZ | Plano de Assistência Familiar | Matriz;2.6;Av. João Pessoa, 6410 - Demócrito Rocha, Fortaleza - CE, 60440-005;casa funerária;-3.7635067;-38.5582975
 Funerária Plano da Paz - Demócrito Rocha;3.0;Av. João Pessoa, 6410 - Parangaba, Fortaleza - CE, 60721-340;casa funerária;-3.7696783;-38.5607925
 funerária paz eterna;5.0;R. Padre Pedro de Alencar, 1023 - Messejana, Fortaleza - CE, 60840-280;casa funerária;-3.829371;-38.4937156
@@ -33,8 +28,6 @@ Funerária Paz Duradoura;4.4;Av. Dr. Theberge, 2380 - Pres. Kennedy, Fortaleza -
 Alvorada Funerais Parangaba;4.7;Av. Gen. Osório de Paiva, 255 - Parangaba, Fortaleza - CE, 60720-000;casa funerária;-3.7748566;-38.5651882
 Funerária Cristo É Vida;5.0;R. Jacinto Matos, 903 - Jacarecanga, Fortaleza - CE, 60310-210;casa funerária;-3.7190264;-38.5466088
 Funerária Master Paz;5.0;R. Moreira de Sousa, 69 - Parquelândia, Fortaleza - CE, 60450-080;casa funerária;-3.7368205;-38.5664405
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-PLANO DA PAZ | Plano de Assistência Familiar | Unidade Maracanaú;4.2;Rua João de Alencar, 64 - Centro, Maracanaú - CE, 61900-150;casa funerária;-3.87667;-38.62556
 PLASA - Plano de Assistência Alvorada;3.8;Av. Domingos Olímpio, 1021 - Benfica, Fortaleza - CE, 60040-081;casa funerária;-3.7364026;-38.5329349
 FUNERÁRIA LUZ E VIDA;5.0;R. Bom Jesus, 959 - Bom Jardim, Fortaleza - CE, 60540-250;casa funerária;-3.7942909;-38.6023762
 Funerária Bom Baiano;5.0;R. Padre Mororó, 217 - Centro, Fortaleza - CE, 60010-100;casa funerária;-3.7188834;-38.5353332
@@ -50,22 +43,16 @@ Manancial Funerais;5.0;Rodovia BR 116, 3557 - Km 8 (ao lado do SVO - Messejana, 
 Funerária Funepaz;5.0;Av. Genibaú, 601 - Genibaú, Fortaleza - CE, 60530-000;casa funerária;-3.7606624;-38.6006414
 Funerária Poupa Urna;4.6;Rua Frei Serafim, 382 - Parangaba, Fortaleza - CE, 60720-605;casa funerária;-3.7787639;-38.5775531
 Funerária SBC;3.6;Av. Oscar Araripe, 783 - Bom Jardim, Fortaleza - CE, 60543-452;casa funerária;-3.7916184;-38.5985531
-Funerária Portal da Paz;4.5;Av. Frei Cirilo, 3700 - Messejana, Fortaleza - CE, 60845-285;casa funerária;-3.8164819;-38.4978293
 Funerária Fênix;5.0;rua 1°de maio n°1809, granja portugal, fortaleza ce - Granja Portugal, Fortaleza - CE, 60541-310;casa funerária;40.16358;-8.63295
 Fortaleza Assistência Familiar 24hs;5.0;Av. Bernardo Manuel, 10501 - Parque Dois Irmãos, Fortaleza - CE, 60761-281;casa funerária;-3.8109874;-38.554884
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-PLANO DA PAZ | Plano de Assistência Familiar | Unidade Maracanaú;4.2;Rua João de Alencar, 64 - Centro, Maracanaú - CE, 61900-150;casa funerária;-3.87667;-38.62556
 Funerária Mão Amiga;5.0;R. Cônego de Castro, 4591 - Vila Peri, Fortaleza - CE, 60764-205;casa funerária;-3.7880017;-38.5762068
 Funerária TERTO SÃO RAIMUNDO FUNEPET;3.0;R. Sen. Pompeu, 453 - Centro, Fortaleza - CE, 60025-000;casa funerária;-3.71722;-38.54306
 Pré-Vida;4.0;Av. C, 915 - Conj. Ceará II, Fortaleza - CE, 60533-610;casa funerária;-3.71722;-38.54306
 FUNERARIA UNIAO;5.0;Av. Augusto dos Anjos, 1446 - Parangaba, Fortaleza - CE, 60720-600;casa funerária;-3.7791682;-38.5785247
 Clinica de Tanatopraxia Osíris;5.0;Rua Dom José Lourenço, 1313 - Parquelândia, Fortaleza - CE, 60450-245;casa funerária;-3.737836;-38.5590945
 Funerária Anjo da Guarda - Afagu Centro;4.8;R. São Paulo, 1750 - Carlito Pamplona, Fortaleza - CE, 60310-330;casa funerária;-3.71722;-38.54306
-Funerária Cred Urna: Plano Funerário, Jazigos, Cremação, Funerais, Bom Jardim, Fortaleza;4.8;R. Edson Martins, 347 - Bom Jardim, Fortaleza - CE, 60543-454;casa funerária;-3.7920379;-38.594984
 Funerária e Floricultura São Matheus;5.0;Av. da Saudade, 3790 B - Passaré, Fortaleza - CE, 60861-330;casa funerária;-3.814428;-38.534312
 Plano Vida E Paz;5.0;R. Francisco Saraiva, 509 - Canindezinho, Fortaleza - CE, 60731-005;casa funerária;-3.8108746;-38.6077613
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-PLANO DA PAZ | Plano de Assistência Familiar | Unidade Maracanaú;4.2;Rua João de Alencar, 64 - Centro, Maracanaú - CE, 61900-150;casa funerária;-3.87667;-38.62556
 Assistência Integrada Florescer;4.6;R. Estevão de Campos, 676 - Barra do Ceará, Fortaleza - CE, 60332-320;casa funerária;-3.7042146;-38.5809885
 VITAE;5.0;Av. Dom Luís, 609 - Sala 903 - Meireles, Fortaleza - CE, 60160-230;casa funerária;-3.7334846;-38.4958169
 Plano de Assistência Familiar União;3.3;Rua Paurillo Barroso, 964 - Mondubim, Fortaleza - CE, 60712-110;casa funerária;-3.71722;-38.54306
@@ -73,24 +60,4 @@ Clinfor - Clinica De Tanatopraxia;4.6;Av. Presidente Costa e Silva, 4449 - Mondu
 Centro Logístico Grupo Nobre;5.0;Rua Conselheiro Tristão, 326 - Centro, Fortaleza - CE, 60050-100;casa funerária;-3.7370455;-38.5263332
 Paz Eterna (Velório);3.0;R. Júlio Siqueira, 854 - Dionísio Torres, Fortaleza - CE, 60130-090;casa funerária;-3.7507157;-38.5059379
 Funerária Paz Eterna - Parangaba;4.0;R. Júlio Gaspar, 599 - Parangaba, Fortaleza - CE, 60710-095;casa funerária;-3.781776;-38.5644125
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-PLANO DA PAZ | Plano de Assistência Familiar | Unidade Maracanaú;4.2;Rua João de Alencar, 64 - Centro, Maracanaú - CE, 61900-150;casa funerária;-3.87667;-38.62556
-funeraria cruz dourada;3.8;Av. Dom Almeida Lustosa, 3769 - Mal. Rondon (Jurema), Caucaia - CE, 61652-000;casa funerária;-3.73611;-38.65306
-Funerária Fortplano;5.0;Av. João Pessoa, 4584 - Damas, Fortaleza - CE, 60425-813;casa funerária;-3.7526062;-38.5502258
-Funerária Nova Jerusalém;3.7;Av. Dom Almeida Lustosa, 2950 - Parque Guadalajara (Jurema), Caucaia - CE, 61650-000;casa funerária;-3.73611;-38.65306
-Paz Infinita;3.5;Jereissati I, Maracanaú - CE, 61900-510;casa funerária;-3.8748527;-38.6141929
-Complexo Santa Rita;4.6;Av. Presidente Costa e Silva, 4443 - Passaré, Fortaleza - CE, 60862-515;casa funerária;-3.8264068;-38.5373232
-Funeraria Paz Duradoura;5.0;Rua Coronel Correia, 1674 - Centro, Caucaia - CE, 61600-004;casa funerária;-3.7353898;-38.6560436
-Funerária Plasluz;3.0;R. Tiburcio Targino, 496 - Centro, Aquiraz - CE, 61700-000;casa funerária;-3.9016;-38.3913
-Funerária Anjo da Guarda;4.5;R. Eng. João Alfredo, 1846 - Centro, Caucaia - CE, 61600-050;casa funerária;-3.73319;-38.657782
-Funerária Bom Jardim Eusébio;5.0;Av. Eduardo Sá, 48 - loja A - Centro, Eusébio - CE, 61760-000;casa funerária;-3.8695;-38.4554
-Funerária Poupa Urna;5.0;R. Sete - Jereissati I, Maracanaú - CE, 61900-320;casa funerária;26.52527;90.49066
-Funerária Nova Luz;5.0;R. Francisco Câmara, 556 - Loja 06 - Centro, Aquiraz - CE, 61700-000;casa funerária;-3.9016;-38.3913
-Alvorada Funerais Aquiraz;5.0;R. Virgílio Coelho, 359 - Centro, Aquiraz - CE, 61700-000;casa funerária;-3.9016;-38.3913
-Memorial Sol Poente;3.8;Avenida Sol Poente, 8800 - Cipó, Caucaia - CE, 61636-010;casa funerária;-3.73611;-38.65306
-PLANO DA PAZ | Plano de Assistência Familiar | Unidade Maracanaú;4.2;Rua João de Alencar, 64 - Centro, Maracanaú - CE, 61900-150;casa funerária;-3.87667;-38.62556
-Funerária Nova Luz;4.9;R. 75, 370 - Sen. Carlos Jereissati, Pacatuba - CE, 61800-000;casa funerária;-3.8921744;-38.617525
-Funerária Amor E Vída;5.0;R. Cel. Manuel Paula, 310 - Centro, Maranguape - CE, 61940-065;casa funerária;-3.89083;-38.68556
-Funerária Santa Terezinha;5.0;R. Cel. Antônio Botelho, 241 - Centro, Maranguape - CE, 61940-005;casa funerária;-3.89083;-38.68556
 Funerária Fênix;5.0;Rua 1º de Maio, 1809 - Granja Portugal, Fortaleza - CE, 60541-312;casa funerária;-3.7792716;-38.6015077
-Funerária Bom Caminho;5.0;Av. Pres. Castelo Branco, 2340 - Centro, Horizonte - CE, 62884-190;casa funerária;-4.1;-38.48333
